@@ -17,5 +17,7 @@ class DatabaseManager:
     file_to_write.write("\n")
     file_to_write.writelines(key_words)
     file_to_write.write("\n")
+    file_to_write.write(" ")
+    file_to_write.write("\n")
     file_to_write.close()
     print("Add to file ok")

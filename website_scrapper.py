@@ -5,17 +5,21 @@ from bs4 import BeautifulSoup
 import re
 from database_manager import DatabaseManager
 import time
+import os
 
 class WebsiteScrapper:
 
   # Dummy Header
   headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
   rbhe_url = "http://periodicos.uem.br/ojs/index.php/rbhe/issue/archive"
+  databaseManager = DatabaseManager()
 
   def scrapRbhe(self):
+
     print("Starting to scrap RBHE")
 
-    databaseManager = DatabaseManager()
+    os.remove("database/rbhe_file.txt")
+    
 
     # Get Main Page
     main_page = requests.get(self.rbhe_url, headers=self.headers)
@@ -27,14 +31,14 @@ class WebsiteScrapper:
       main_soup = BeautifulSoup(main_page.content, 'html.parser')
 
       # Get all issues
-      list_of_issues = main_soup.findAll("ul", {"class": "issues_archive"})
+      list_of_issues = main_soup.find("ul", {"class": "issues_archive"}).findAll("a", {"class": "title"})
 
       print("Found " + str(len(list_of_issues)) + " issues")
 
       for issue in list_of_issues:
 
         # Get issue url
-        issue_url = issue.find("a", {"class": "title"})['href']
+        issue_url = issue['href']
 
         # Get the issue page
         issue_page = requests.get(issue_url, headers = self.headers)
@@ -45,11 +49,12 @@ class WebsiteScrapper:
           issue_soup = BeautifulSoup(issue_page.content, 'html.parser')
 
           # Get all articles
-          list_of_articles =  issue_soup.findAll("ul", {"class": "cmp_article_list articles"})[0].findAll("a")
+          list_of_articles =  issue_soup.findAll("ul", {"class": "cmp_article_list articles"})[0].findAll("a", {"class": None})
           
           for article in list_of_articles:
 
             article_url = article["href"]
+            print("Article url: " + str(article_url))
 
             # Get article page
             article_page = requests.get(article_url, headers = self.headers)
@@ -73,13 +78,16 @@ class WebsiteScrapper:
               summary = article_soup.find("p").text
 
               # Key words
-              temp_string = article_soup.find("div", {"class": "item keywords"}).find("span",{"class": "value"}).text.strip().split(",")
+              keywords_div = article_soup.find("div", {"class": "item keywords"})
               key_words = []
-              for w in temp_string:
-                w = re.sub('\s+', '', w)
-                key_words.append(w)
+
+              if(keywords_div is not None):
+                temp_string = keywords_div.find("span",{"class": "value"}).text.strip().split(",")
+                for w in temp_string:
+                  w = re.sub('\s+', '', w)
+                  key_words.append(w)
                 
-              databaseManager.addToRbheFile(title, all_authors, summary, key_words)
+              self.databaseManager.addToRbheFile(title, all_authors, summary, key_words)
 
               time.sleep(1)
             else:
