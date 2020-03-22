@@ -13,93 +13,263 @@ José Raimundo RodriguesLucyenne Matos da Costa Vieira-MachadoEliane Telles de B
 Este artigo procura retomar os congressos sobre educação de surdos ocorridos no final do século XIX, principalmente a seção dos surdos do Congresso de Paris, em 1900, compreendendo-os num conjunto mais amplo onde se situa também o Congresso de Milão (1880). Desta maneira, tomamos o Congrès International pour l’Étude des Questions d´Éducation et d´Assistance des Sourds-Muets – section des sourds-muets como ‘documento-monumento’ que nos permite problematizar as verdades produzidas em torno dessa história e debruçamo-nos sobre as deliberações dos surdos, considerando-as em sua atualidade e seu potencial questionador do que tem sido afirmado sobre a educação de surdos ontem e hoje. Trata-se de uma pesquisa documental que visa a dialogar sobre essas verdades no desejo de desinstalarmo-nos e revermos posicionamentos.
 EducaçãodesurdosCongressosdesurdosCongressodeMilão(1880)
  
+Questões metodológicas em manualística
+Marcelo Pinheiro CigalesAna Maria Badanelli Rubio
+Os manuais escolares ou livros de textos se constituem como uma fonte relevante para a investigação histórico-educativa desde que a historiografia da educação pôs seu foco na cultura escolar, processo que recorre, sobretudo, as últimas três décadas. O livro escolar, desde então, tem sido considerado um dispositivo fundamental para a transmissão de saberes e para a organização das práticas escolares. Tendo isso por base, este dossiê pretende refletir sobre algumas questões metodológicas ao redor da manualística, um campo de pesquisa que tem produzido ao redor de si um corpus extenso de pesquisas de caráter histórico e didático, nem sempre atento às preocupações metodológicas. Assim, a partir dos trabalhos apresentados neste dossiê, buscamos divulgar as pesquisas ao redor da análise dos manuais escolares e livros de texto, possibilitando o diálogo com novas perspectivas metodológicas sobre essas fontes documentais. Propõe-se, igualmente, lançar um olhar sobre como as metodologias próprias das ciências sociais podem auxiliar na análise e nos questionamentos sobre os processos históricos-educativos que têm os manuais escolares objetos e fontes de pesquisa privilegiados
+manuaisescolaresmetodologiasociologiamanualística
+ 
+Proposta metodológica multimodal e interdisciplinar na pesquisa manualística
+Kira Mahamud  Angulo
+O primeiro objetivo deste artigo é prosseguir no desenvolvimento de questões metodológicas relacionadas com a pesquisa manualística, construindo a partir da base de trabalhos teóricos e empíricos anteriores. Esse propósito conduz ao segundo objetivo: ressaltar a relevância e necessidade de estudar a fundo, desde uma perspectiva teórica e crítica, os aspectos metodológicos da análise de livros de texto. Por fim, o terceiro objetivo é apresentar uma proposta metodológica multimodal e interdisciplinar que permita obter informações sobre o manual escolar como fonte documental historiográfica, social e política, de maneira rigorosa. Enfatiza-se a importância de diferenciar o livro de texto como documento singular multicontextualizado, por um lado, e o objeto de estudo dentro do manual, por outro. 
+metodologiamanualísticainterdisciplinaridadeenfoqueinterpretativocontextualetextual
+ 
+Os livros didáticos da perspectiva da sociologia do conhecimento
+Simone  Meucci
+Este artigo propõe uma abordagem dos livros didáticos inspirando-se nos pressupostos da sociologia configuracional e nas questões da sociologia do conhecimento. A abordagem se aplica a pesquisas sobre disciplinas escolares que tomam como unidade empírica um conjunto limitado de livros. Primeiro, apresentamos a definição das operações necessárias à constituição de um campo de conhecimento - identificáveis nos livros didáticos - que denominamos de sistematização, institucionalização e rotinização. Em seguida, identificamos níveis de análise para delinear a configuração da qual os livros são produtos e produtores: articulação entre agências e agentes produtores e consumidores dos livros; processos de formalização de conteúdo; dinâmicas de estabilização e significação do conhecimento. Esperamos, ao final, confirmar o valor heurístico dos livros didáticos para compreender aspectos decisivos da vida intelectual de uma sociedade. 
+livrosdidáticossociologiadoconhecimentoconhecimentosescolaresconfiguraçõessociais
+ 
+Aspectos metodológicos na análise de manuais escolares
+Marcelo  CigalesAmurabi  Oliveira
+O artigo apresenta uma metodologia de análise de manuais escolares sob uma perspectiva relacional, a partir da sociologia de Pierre Bourdieu. Primeiramente, discutimos as diferentes nomenclaturas sobre o manual escolar, abordando o desenvolvimento do campo de pesquisa denominado manualística, para então destacarmos três elementos metodológicos: a) os manuais escolares respondem a exigências externas, pois são produtos pedagógicos projetados por diferentes agentes do campo educacional que possuem distintas representações do mundo social; b) possuem uma lógica interna, pois fazem parte da cultura escolar para onde são direcionados, recepcionados e ressignificados; e, c) exigem para sua análise uma pluralidade de métodos, sendo a análise de conteúdo e documental insuficientes para a compreensão sociológica desse objeto.
+manuaisescolaresmetodologiasociologiamanualística
+ 
+Contribuições da antropologia visual para a análise de leituras sobre povos indígenas
+Teresa Laura  Artieda
+Neste artigo exponho uma metodologia de análise de leituras acerca de indígenas nos livros escolares da Argentina (1885-1940). Argumento sobre a importância de reconstituir o contexto sócio histórico da produção, além de descrever os procedimentos metodológicos e explicar o caráter multidisciplinar desta investigação. Apresento as contribuições da história e da antropologia e aprofundo na antropologia visual. Estudos sobre a fotografia etnográfica do final do século XIX e princípios do século XX, facilitam os significados interpretativos dos retratos sobre indígenas reproduzidos nos livros escolares. O recurso à antropologia visual foi um dos caminhos mais produtivos para compreender esses livros como peças de um universo social maior no qual fazem sentido
+livrosdeleiturapovosindígenascondiçõesdeproduçãoprocedimentosmetodológicos
+ 
+As imagens e suas interpretações nos textos escolares espanhóis
+Ana  Badanelli
+Os historiadores da educação estão se voltando cada vez mais para o estudo das instituições escolares, sendo os livros escolares, fontes históricas relevantes nessa questão ao se constituírem como dispositivos textuais e iconográficos. Assim, a comunidade de pesquisadores se utiliza tanto dos conteúdos dos livros como das imagens, como fonte para conhecer o passado históricos dos processos educativos. Tendo isso em questão, neste trabalho busca-se propor uma metodologia de análise que leve em conta os modos de interrelação entre a expressão, formas de representação e o conteúdo dos textos escolares editados na Espanha entre a metade do século XX e início do século XXI, destinados a transmitir conteúdos, valores, ideologias e crenças
+iconografiaiconologiamanualística
+ 
 A RBHE comemora os 20 anos da SBHE
 Alivia Civera CeceredoAna Clara Bortoleto NeryCláudia Engler CuryEvelyn de Almeida OrlandoJosé Gonçalves GondraTerciane Ângela Luchese
 Um periódico assume funções e formatos específicos estabelecidos pelas regras e disposições do campo ao qual se encontra vinculado, sendo possível observar mudanças e permanências ao longo do ciclo de vida dos impressos. As revistas acadêmico-científicas, como a Revista Brasileira de História da Educação (RBHE), cumprem o papel de divulgadoras da produção científica desenvolvidas nas universidades e centros de pesquisa, bem como indutoras de determinadas questões, desempenhando função estratégica na organização dos debates de um campo científico.
 RBHESBHEEditorial
  
+Heróis sem nome: representações sobre o espaço rural e o urbano, as escolas rurais, as professoras e os alunos (Uberlândia-MG, 1950 - 1980)
+Danielle Angélica AssisSandra Cristina Fagundes de Lima
+O objetivo deste artigo é apreender as representações produzidas pelas professoras das escolas rurais de Uberlândia-MG e pelas elites locais sobre o espaço rural e o urbano, escolas rurais, professoras e alunos. Foram consultados jornais, atas do Legislativo e das escolas rurais, livros didáticos, cartilhas, cadernos escolares, fotografias e narrativas de seis professoras. Os resultados obtidos possibilitaram-nos compreender como essas representações contribuíram para compor o papel híbrido assumido pelas professoras rurais: ora eleitas como agentes de civilização, ora desprestigiadas. Ambiguidade que perpassou também a escola rural: formalmente instituída como espaço de civilizar o homem do campo, mas, paradoxalmente, núcleo de resistência e de cultura.
+professordeescolaruraldiscenteselites
+ 
+Educação de surdos pelo professor surdo, Ferdinand Berthier: encarando desconcertantes paradoxos e longevas lições
+Aline Lima da Silveira LageCeleste Azulay Kelman
+Copyright (c) 2019 Aline Lima da Silveira Lage, Celeste Azulay Kelman
+HistóriadaeducaçãoeducaçãodesurdosprofessorFerdinandBerthier
+ 
+A Campanha Nacional de Educação dos Cegos: uma leitura a partir da imprensa jornalística dos anos 1960 e 1970
+Fernanda Luí­sa de Miranda CardosoSilvia Alicia Martínez
+Busca-se, neste artigo, compreender as linhas de ação e o funcionamento da Campanha Nacional para Educação dos Cegos, durante as décadas de 1960 e 1970. Essa campanha integrava um ‘modelo campanhista de política social’, subordinada ao Ministério da Educação e Cultura, e atuava em linhas de ação que envolviam a difusão do livro didático; o ensino de braile no Curso Normal; a qualificação de cegos para atividades industriais; a assistência financeira; e o convênio com a Campanha Nacional de Educação Rural. A imprensa jornalística é priorizada como fonte pelas peculiaridades não proporcionadas por outras fontes ‘como a riqueza de debates, anseios e utopias dos projetos educativos’. 
+HistóriadaEducaçãoEducaçãoEspecialPolíticaEducacionalImprensa
+ 
+História do ensino superior em Mato Grosso: das iniciativas frustradas à criação de um sistema universitário
+Tiago Alinor Hoissa Benfica
+A fim de se visualizar a instalação das primeiras instituições de ensino superior no antigo Estado de Mato Grosso, foi necessário um olhar sobre as mudanças do campo educacional ocorridas no contexto nacional. A discussão, embasada em pesquisa bibliográfica de trabalhos memorialistas e acadêmicos, busca se concentrar nas experiências da construção de instituições de ensino superior no Estado de Mato Grosso, na década de 1960, e alcança o período da divisão do Estado, ocorrida no ano de 1977. Desse modo, expõe-se uma grade de informações que permite se entender o processo de criação da Universidade Federal de Mato Grosso e da Universidade Federal de Mato Grosso do Sul. Nesse ponto, defende-se que a porção sul do antigo Mato Grosso foi mais dinâmica do que a parte norte na promoção das primeiras escolas de ensino superior. A institucionalização de escolas de ensino superior ocorreu em um contexto nacional que favorecia o seu processo de interiorização, escolas essas encabeçadas por lideranças locais, profissionais liberais que se utilizavam do discurso da promoção da modernização regional para adquirirem poder e reconhecimento com as iniciativas empreendidas no campo educacional. Já o papel do sistema universitário era, essencialmente, a qualificação da mão de obra local. 
+universidadepoderexpansãodoensinodesenvolvimentoregional
+ 
+O Conselho Nacional de Educação: 1931 a 1936
+Willian Douglas GuilhermeSônia Maria dos Santos
+Este artigo é produto da investigação de estágio de pós-doutorado que localizou e catalogou 297 atas do Conselho Nacional de Educação (CNE) de sua primeira fase de atuação, entre os anos de 1931 e 1936. Apesar de conhecido, sobretudo, por meio da legislação, o CNE ainda não havia sido estudado por dentro, ou seja, o seu funcionamento e suas particularidades eram, até então, desconhecidos. O objetivo deste artigo é, portanto, apresentar como funcionava o CNE - conhecido também como o Tribunal da Educação -, como ele era regido e a importância de suas reuniões, registradas em suas atas, para o campo da história da educação brasileira. A proposta é ser uma referência para se entender o CNE. Para este artigo, foram utilizadas a legislação federal, as próprias atas do CNE e uma tese de doutorado que é a primeira pesquisa baseada exclusivamente neste acervo documental, trazendo uma proposta, também, de emancipação teórica frente ao tradicionalismo citacional. 
+HistóriadaEducaçãoBrasileiraFontesAtasDocumentos
+ 
+Políticas culturais e livros didáticos de História: Rocha Pombo na capital da República (1897-1929)
+Maria Aparecida Leopoldino
+O trabalho propõe uma reflexão sobre os nexos entre projetos editoriais, elaborados por meio de políticas culturais, produzidas no cenário brasileiro dos anos iniciais do século XX, e a publicação de livros didáticos de História. Toma como eixo de análise o trajeto intelectual de José Francisco da Rocha Pombo (1857- 1933) para abordar questões referentes ao tema. Desenvolvido com intenções de contribuir com a história da disciplina, atenta-se para o trajeto do letrado paranaense na configuração de uma identidade socioprofissional que se constitui por meio de práticas editoriais e de uma historiografia didática nacional no conturbado início da república brasileira na cidade do Rio de Janeiro. Afirma que o caminho tomado por Rocha Pombo é representativo de estratégias editoriais produzidas como dispositivos de organização de regras para práticas escolares, o que possibilitou traçar o caminho da profissionalização docente no decorrer do século XX.
+RochaPombolivrosdidáticospolíticasculturaisensinodehistória
+ 
+A moradia estudantil como espaço de formação: memórias sobre a Casa do Estudante Universitário Aparício Cora de Almeida (1963-1981)
+Marcos Luiz HinterholzDoris Bittencourt Almeida
+O estudo investiga memórias sobre uma Casa de Estudante, localizada em Porto Alegre, concebendo-a como instituição educativa.  Por meio da História Oral, produziram-se entrevistas com antigos moradores, que, em seus itinerários, buscaram formação universitária e vivenciaram a partilha de um espaço comum: a residência estudantil. Procurou-se alcançar dimensões simbólicas que permitissem interpretar significados conferidos a esta experiência de habitação coletiva, analisando especialmente três aspectos: a autogestão; o espaço social ocupado pela Casa; o lugar desta nas narrativas de si. Conclui-se que as Casas de Estudante são organismos vivos, produtoras e transmissoras de culturas, que inscrevem seus moradores num espaço social, ultrapassando assim os limites de uma experiência passageira.
+moradiaestudantilhistóriadasinstituiçõeseducativashistóriadaeducaçãohistóriaoral
+ 
+Abordagens ao itinerário intelectual de um professor escolanovista na América do Sul: Otto Niemann (1888-1958)
+Gerardo Garay Montaner
+Copyright (c) 2019 Gerardo Garay Montaner
+educaçãoracionalistapedagogialibertáriaautodidatismo
+ 
+A alternativa para o progresso: o nacionalismo-desenvolvimentista, seus intelectuais e o planejamento educacional nos anos 1960 no Brasil
+Lincoln de Araújo Santos
+As origens do desenvolvimentismo como projeto político e suas influências no pensamento social e educacional brasileiro aglutinaram na década de 1960 um grupo de intelectuais comprometidos com esse ideário articulados por instituições e pelo Estado. Num cenário de crise política e social, Celso Furtado, Darcy Ribeiro, Anísio Teixeira e Paulo Freire atuaram como aqueles que pensaram o Brasil com base em uma convergência de ideias que os aproximava do nacionalismo-desenvolvimentista. A análise das fontes documentais identifica nas narrativas os sinais do ideário de um projeto nacional de desenvolvimento, destacando a natureza do Plano Nacional de Educação, de 1962, e o Plano Trienal de Educação, de 1963. 
+intelectualidadepensamentosocialbrasileiroanos1960
+ 
+O ensino por imagens na imprensa periódica da Educação Física (1932-1960)
+Renato Pereira Coimbra RetzAmarílio Ferreira NetoJuliana Martins CassaniWagner dos Santos
+FONTES 
+DesenhoseFotografiasPeriódicosHistóriaCulturalEducaçãoFísica
+ 
+A gênese da reforma universitária brasileira
+Ana Karine Braggio
+Este artigo aborda a gênese da reforma universitária no Brasil bem como sua relação com a gênese do movimento estudantil. Além da bibliografia disponível, foram consultados os periódicos da década de 1920 à de 1960. Mediante a apreciação desses materiais, objetivou-se recuperar a origem da formação do movimento estudantil e do ideário da reforma universitária que permeiam os anos finais da década de 1920. Desse modo, a principal resultante deste estudo é a apresentação inédita dos primeiros indícios das mobilizações estudantis em prol da reforma universitária. Conclui-se que a gênese da reforma universitária e do movimento estudantil foi influenciada pelo manifesto da Universidade de Córdoba e pela iniciativa do professor Bruno Lobo, da Universidade do Brasil
+reformauniversitáriamovimentoestudantildemocratizaçãodoensinoBrunoLobo
+ 
+Para destruir a memória e demolir o patrimônio: algumas questões sobre a história e seu ensino
+Erinaldo Vicente Cavalcanti
+O artigo faz uma reflexão acerca de alguns significados atribuídos à memória e ao patrimônio para ampliar as discussões sobre seus usos para a história e seu ensino. Em seguida, as análises são direcionadas para problematizar o cine Marrocos Marabá como ‘lugar de memória’ e patrimônio cultural. A partir das reflexões desenvolvidas e dos documentos mobilizados, foi possível mostrar a importância e a necessidade em desconstruir os significados cristalizados — que são apresentados e representados — pela memória e sedimentados pelo patrimônio para entendê-los como construções históricas e ampliar as possibilidades de seus usos na pesquisa e/ou no ensino da História.
+históriamemóriapatrimônio
+ 
+Percursos e desafios da história da educação luso-brasileira
+Wenceslau Gonçalves Neto
+São discutidas questões relacionadas a desafios, tensões, realizações e debates marcantes na História da Educação de Brasil e Portugal, principalmente a partir da segunda metade do século XX. Recuperam-se discussões sobre formas da produção histórico-educacional, lacunas investigativas, produção individual ou compartilhada, disputas por financiamento etc. Como encaminhamento, trabalha-se em três dimensões: desafios imediatos, relacionados à continuidade da área de conhecimento; desafios intermediários, voltados para a internacionalização e a difusão de resultados de pesquisa; e desafio teórico-metodológico, que precisa ser recorrentemente colocado pelo campo. Finaliza-se chamando-se a atenção para outra dimensão que não pode ser descurada pelo pesquisador: o desafio ético.
+HistóriadaEducaçãotensõeseperspectivasBrasilPortugal
+ 
+Os livros escolares impressos na Tipografia de Serva (Bahia, 1811-1846):bibliografia e história
+Pablo Iglesias MagalhãesAlex Andrade Costa
+Este estudo tem como objetivo identificar os primeiros livros escolares impressos na Bahia, a partir da instalação da imprensa (1811), destacando a Tipografia de Serva como a responsável pela impressão e circulação de parte significativa desses manuais didáticos, evidenciando crescente demanda. O artigo ainda analisa os livros quanto à forma, conteúdo e finalidades, verificando, nesse caso, que muitos dos manuais foram pensados e produzidos como instrumentos políticos, usados para legitimar a manutenção da língua, da religião, da cultura e dos costumes portugueses no Brasil no contexto pós-1822.
+librosescolareshistoriadelaeducaciónbrasileñaimpresióndelibros
+ 
+Metodologia de ensino de língua portuguesa na formação docente: incursão em um corpus de manuais pedagógicos
+Sandoval  Nonato
+Este estudo propõe qualificar o estatuto da ‘Metodologia de ensino de língua portuguesa’ como componente curricular da formação do professor de língua portuguesa. Para tanto, inicialmente, procede à reconstituição panorâmica do percurso histórico de evolução da formação docente em interface com a emergência das didáticas disciplinares. Em seguida, com base em aportes teóricos dos campos da história e didática das disciplinas escolares e da linguística aplicada, entre outros, descreve e analisa um corpus de três manuais pedagógicos, publicados entre 1949 e 1958, no Brasil, assinalando os modos pelos quais, nesses manuais, busca-se construir a especificidade da ‘Metodologia de ensino de língua portuguesa’ com relação às demais disciplinas de formação docente.
+didáticasdisciplinaresformaçãodoprofessormanuaispedagógicosmetodologiadeensinodelínguaportuguesa
+ 
+Tratado pratico de gymnastica sueca de L. G. Kumlien: itinerários de um manual no Brasil (1895-1933)
+Anderson Cunha BaíaIara Marina dos Anjos BonifácioAndrea Moreno
+O presente estudo teve como objetivo identificar os processos de circulação no Brasil da obra Tratado pratico de gymnastica sueca, de L. G. Kumlien. Para isso, foi necessário rastrear a trajetória e as ações realizadas por seu autor. Kumlien, sueco, medico-gymnasta, que se muda para Paris em 1895, onde realiza diferentes movimentos para a divulgação da ginástica sueca, dentre eles, a escrita de manuais. O Tratado é uma obra que foi tomada como material didático, no Brasil, até meados dos anos 1930. Circulou, foi lido e serviu de orientação para a constituição de uma educação do corpo. Esse estudo contribui para a compreensão das formas pelas quais a ginástica sueca adentrou o país, particularmente por meio de manuais. As fontes mobilizadas foram os manuais e jornais brasileiros e franceses
+MétodoSuecoGinásticaEducaçãoCorpo
+ 
+“Mais que uma revista, um dicionário para os pais”: a revista “Pais & Filhos” e a imprensa transnacional para a família
+Liana Pereira Borba dos Santos
+Este artigo visa discutir de que forma a análise da revista Pais & Filhoscontribuiu para uma história da imprensa educacional dirigida às famílias, considerando seu papel no mercado editorial brasileiro nos anos 1960 a 1980 e sua relação com a imprensa transnacional voltada para essa temática. Pais & Filhos tratava de aspectos relacionados à saúde, à educação e ao comportamento das crianças e de suas respectivas famílias. Não obstante, a revista brasileiraaproximava-se de publicações de circulação internacional,como Eltern (Alemanha), Parents (EUA), Enfant Magazine e Parents(França). Tais revistas compartilhavam com Pais & Filhos o empenho em educar as famílias leitoras, em termos científicos, acerca de aspectos ligados à gestação, ao cuidado, à saúde e à educação dos filhos.
+ImpressosEducativosPaisLeitoresHistóriadaEducação
+ 
+Para instruir a mocidade: lógica e moral em lições no compêndio de filosofia, de José Soriano de Souza
+Anderson SantosRosa Lydia Teixeira Corrêa
+Neste trabalho temos como objetivo apresentar algumas considerações sobre duas lições presentes no compêndio Lições de philosophia elementar racional e moral, de José Soriano de Souza, publicado em 1871 na cidade do Recife. Ele destinou a maior parte da sua vida às atividades intelectuais e públicas. Seus estudos básicos ocorreram no Lyceu Provincial da Parahyba do Norte. Em seguida formou-se em medicina na Faculdade de Medicina do Rio de Janeiro (1860), e, por fim, em filosofia (1866), pela Universidade de Louvain, na Bélgica. Foi lente catedrático da Faculdade de Direito do Recife onde lecionou as disciplinas direito público e constitucional, direito natural e direito romano. Após movimentado concurso (1867), obteve a cadeira de filosofia do Gymnásio Pernambucanona qual teve como concorrente Tobias Barreto, uma figura já conhecida naquela época. A partir dessa obra, temos como objetivo analisar entre as lições presentes no compêndio, duas, sendo uma delas sobre lógica e a outra sobre a moral. Com isso, observamos que o autor participou da produção de saberes por meio de prescrições contidas nas lições que analisamos, interferindo na cultura escolar inerente à instituição na qual lecionava.
+livrosescolaresfilosofiaprofessor-autorensinosecundário
+ 
+Histórias dos conservatórios brasileiros de canto orfeônico: consonâncias e dissonâncias nos cursos de formação do professorado de música
+Elias Souza dos SantosCristiano de Jesus FerronatoAne Mecenas
+Este artigo objetiva apresentar e analisar alguns aspectos das histórias dos conservatórios brasileiros de canto orfeônico, instituições responsáveis pela formação, em nível superior, do professorado de música das escolas públicas e particulares. A pesquisa, de caráter histórico, bibliográfico e oral, está ancorada nos conceitos de ‘instituições educativas’ e ‘currículo’. As trajetórias dessas escolas se apresentaram, por um lado, de forma diversificada e, por outro, denotaram o controle do Estado ante as diretrizes nacionais, tanto na formação do(as) docentes quanto na organização dos conteúdos programáticos da disciplina canto orfeônico. A investigação destaca a importância e o pioneirismo dessas instituições no processo de formação dos primeiros docentes de música voltados ao ensino da educação musical escolar no Brasil. Os percursos históricos de alguns conservatórios evidenciaram silêncios e ausência de produção acadêmica, apesar dos esforços de pesquisadores na publicização de trabalhos acadêmicos em eventos no país.
+Currículoformaçãodocentehistóriadaeducaçãoeducaçãomusicalescolar
+ 
+Espaços de educar: biografias femininas e ensino de história da educação
+Diane ValdezMiriam Fábia Alves
+O objetivo deste artigo é socializar uma experiência do uso de biografias de educadoras no ensino de história da educação em um Programa de Pós-graduação em Educação. O estudo também problematiza, a partir de uma pesquisa bibliográfica, o predomínio masculino nos dicionários e nas obras clássicas de história da educação editadas nos séculos XX e XXI. Conclui-se que, ao se proporcionar aos estudantes o acesso a histórias plurais, também se deu visibilidade às trajetórias femininas na história da educação. Os enfrentamentos ideológicos, políticos e sociais, vividos pelas educadoras, impulsionaram outras perspectivas a respeito do magistério na história da educação brasileira.
+mulhereseducadorasbiografiasensinodehistóriadaeducação
+ 
+A escrita e o ofício da história no curso de Geografia e História da Faculdade de Filosofia, Ciências e Letras da Universidade do Paraná (1938-1948)
+Diogo da Silva Roiz
+O nosso principal objetivo com este texto será o de procurar reconstituir o processo de institucionalização do ensino universitário de história na Universidade do Paraná (UP) nos anos 1940, dando ênfase ao processo de mudança curricular por que o curso de geografia e história passou no período. Procuraremos destacar o que se pretendia ensinar aos alunos para poderem desempenhar o ofício de historiadores com propriedade técnica e intelectual. Procuraremos ainda observar como ciência e religião se articulavam para promover a formação do caráter e do perfil do profissional que se pretendia construir no curso.
+institucionalizaçãoGeografiaeHistóriaUFPR
+ 
+A imprensa estudantil liceísta no Maranhão (1889-1900)
+Cesar Augusto CastroMayra Cristhine dos Santos CabralSamuel Luis Velázquez Castellanos
+Analisa-se o movimento da imprensa estudantil liceísta maranhense na primeira década republicana (1889-1900), enquanto fonte e objeto de estudo simultaneamente. Para tanto, descrevem-se os aspectos relacionados à materialidade dos jornais O Século (1889), O Ensaio (1890), A Eschola (1891), O Porvir (1895), O Ideal (1898) e A Actualidade(1900) bem como as principais temáticas debatidas por eles. A abordagem teórico-metodológica se baseia nos pressupostos da história cultural. Conclui-se que a imprensa liceísta teve papel de destaque na sociedade maranhense e no processo de revigoramento da ‘Atenas Brasileira’, atuando, principalmente, como veículo de legitimação de práticas intelectuais.
+ImprensaEstudantilLiceístaLiceuMaranhenseHistóriadaImprensadoMaranhão
+ 
+As cidadelas das pesquisas de história da educação no Brasil
+Marta Maria de Araújo
+A reflexão consentânea aos Grupos de Pesquisas de História da Educação, formalizados nas instituições universitárias brasileiras na década de 1990, ‘em especial, na Universidade Federal do Rio Grande do Norte’, é, em princípio, um exercício de reconstituição pela memória e pela escrita de uma cultura acadêmica de debates, de estudos, de encontros e de interações recíprocas de pesquisadores. O principal propósito do trabalho é analisar as situações de produção do conhecimento da história da educação e os seus pressupostos teórico-metodológicos, contemplando, em parte, o século XX e, em parte, o século XXI. Por essa reconstituição, constata-se que, desde o início, os grupos de pesquisas de história da educação, que congregam pesquisadores brasileiros e estrangeiros, apresentam-se, para as instituições universitárias, para os grupos de trabalho e para as sociedades científicas, como produtores por excelência do conhecimento da história da educação.
+gruposdepesquisashistóriadaeducaçãohistóriaculturalinstituiçõesuniversitárias
+ 
+Flutuações da galera,  (im)perfeições da pedagogia e outros mapas de navegação: a formação em serviço de professores no Espírito Santo (1930-1935)
+Rafaelle Flaiman LauffRegina Helena Silva Simões
+Focaliza a formação de professores durante o Primeiro Congresso de Aperfeiçoamento Pedagógico (1935), realizado no Espírito Santo. A partir da leitura dos anais e de matérias jornalísticas relativas ao evento, analisa as ‘novas’ diretrizes para a formação de docentes capixabas em serviço e os modos como os congressistas interagiram com as orientações para o aperfeiçoamento do ensino capixaba. Conclui que a organização do congresso em torno de aulas-modelo, ministradas por professores convidados, pretendia afastar controvérsias e teorizações tidas como ‘inúteis’, promovendo a modelização pedagógica. Nesse contexto, a anunciada perspectiva ‘renovadora’ do ensino reduzia-se à reprodução ‘eficiente’ de modelos práticos, que sequer poderiam ser colocados na prateleira das novidades.
+PrimeiroCongressodeaperfeiçoamentopedagógicoEspíritoSantoFormaçãodeprofessoresemserviço.
+ 
+Maria Estephania e a Escola Primária Distrital de Vera Cruz – Pindahybas, Minas Gerais: um estudo sobre estratégias e táticas (1901-1909)
+Alisson José da Silva Esteves PereiraGilvanice Da Silva Musial
+Neste artigo analisaremos as táticas produzidas na localidade Vera Cruz – Pindahybas para a permanência da escola de instrução primária, após a lei 281 de 1899, bem como o trabalho de Maria Estephania de Macedo, professora da cadeira entre 1901 e 1909. Analisaremos, ainda, aspectos referentes ao ensino e observaremos que todo o processo escolar organizado na cadeira primária de Maria Estephania de Macedo foi fundamental para a não supressão da cadeira na localidade. Para a realização deste trabalho, utilizaremos a legislação mineira, relatórios da Secretaria do Interior, dentre outros. E, para trabalhar com estas fontes, utilizamos os conceitos de estratégias e táticas de Michel de Certeau para compreendermos as táticas locais que auxiliaram na permanência dessa escola e as estratégias políticas que visavam suprimir as escolas rurais e distritais mineiras.
+Instruçãoprimária
+ 
+História do ensino industrial no Brasil: uma análise historiográfica da obra de Celso Suckow da Fonseca
+Juan Carlo Cruz SilvaOlivia Morais de Medeiros Neta
+No presente trabalho realizamos uma análise historiográfica da obra História do ensino industrial no Brasil, de autoria do educador-engenheiro Celso Suckow da Fonseca (1905-1966). Utilizamos o método histórico, conforme descrito por Rüsen (2015), buscando compreender os pressupostos teórico-metodológicos que nortearam a obra. Os entendimentos de intelectual, lugar social e escrita da história são referenciais para a análise da fonte. Diante da sua atuação em diversos papéis no campo da educação profissional no Brasil, Suckow apresenta indícios de sua escrita engajada.  A partir das matrizes interpretativas, propostas por Xavier (2011), apontamos elementos da matriz político-institucional na obra analisada, mas concomitantemente às matrizes sociológica e político-ideológicas. 
+HistóriadaEducaçãoProfissionalHistoriografiaIntelectuaisMétodoHistórico
+ 
+Faria de Vasconcelos e a Escola Nova em Portugal: do self-government à educação científica
+Carlota Boto
+O presente artigo propõe-se a abordar o estudo do pensamento educacional de um representante da Escola Nova em Portugal, António de Sena Faria de Vasconcelos (1880-1939). A partir de 1912, o autor dirigirá uma escola por ele próprio fundada em Bierges-Les-Wavre, experiência caracterizada por contemporâneos como uma das principais ações de aplicação dos princípios renovados em educação. Em uma primeira etapa de sua produção, que vai do início do século aproximadamente aos anos de 1920, a ênfase se dá na discussão do método ativo, daquilo que Faria de Vasconcelos prefere denominar de autogoverno, ou, mais precisamente, self-government. Do ponto de vista teórico-metodológico, o estudo inscreve-se na perspectiva da história das mentalidades. Os procedimentos metodológicos adotados são a leitura e a análise das obras completas do autor, tomando esse corpus documental em paralelo com contemporâneos seus. 
+métodosdeensinohistóriadaeducaçãofilosofiadaeducaçãoculturaescolar
+ 
+La guerre des écrivains (1940-1953)
+Névio de Campos
+Resenha de Sapiro, G. (1999). La guerre des écrivains (1940-1953). Paris, FR: Fayard.
+Resenhadelivro
+ 
+O lugar da educação das sensibilidades e dos sentidos - apontamentos sobre o livro “A invenção do recreio escolar: uma história de escolarização no estado do Paraná (1901-1924)"
+Leticia Cristina Lima MoraesLeonardo do Couto GomesMarcelo Moraes e Silva
+Resenha de Meurer, S. S. (2018). A invenção do recreio escolar: uma história de escolarização no estado do Paraná (1901-1924). Curitiba, PR: Appris.
+EducaçãoEscolorizaçãoRecreio
+ 
+Por uma história da história da educação no Brasil: Diana Vidal entre os 20 anos da SBHE e os 22 anos do NIEPHE
+Fagno Silva SoaresVinicius Kapicius  Plessim
+Entrevista realizada em 17 de dezembro de 2018, com a historiadora da educação, Diana Gonçalves Vidal, professora titular de história da educação e livre-docente na Faculdade de Educação da Universidade de São Paulo (FE/USP), coordenadora e fundadora do Núcleo Interdisciplinar de Estudos e Pesquisas em História da Educação (NIEPHE/USP). Diretora do Instituto de Estudos Brasileiros (IEB/USP) e destacada pesquisadora em História da Educação no Brasil.
+HistóriadaEducaçãoEscolarizaçãoMemória
+ 
+A escrita da história da educação no Brasil: experiências e perspectivas
+Carlos Eduardo VieiraClaudia Engler Cury
+Doutor em História e Filosofia da Educação (PUC-SP - 1998); Pós-Doutor nas Universidades de Cambridge (2008) e Stanford (2015). Professor e Pesquisador da Universidade Federal do Paraná, Curitiba, PR, Brasil.
+
+ 
+Historiadores da educação brasileira: gerações em diálogo
+Antonio Carlos Ferreira Pinheiro
+Carvalho, J. M. de. (2003). A construção da ordem: a elite política imperial. Teatro de sombras: a política imperial. 4ª ed. Rio de Janeiro, RJ: Civilização Brasileira. 
+formaçãodehistoriadoresdaeducaçãopredominânciadepedagogosedehistoriadoresfeminização
+ 
+O ‘Grupo de Laerte’ e a escrita da história da educação (1962-1972)
+Bruno Bontempi Jr.
+: O artigo trata de uma experiência de pesquisa e escrita de história e filosofia da educação, que nos anos 1960 e 1970 tomou lugar na Universidade de São Paulo e nos Institutos Isolados de Ensino Superior, sob a orientação de Laerte Ramos de Carvalho. Esta experiência, que criou uma discernível tradição no campo de estudos historiográficos da educação brasileira, definiu seus temas à luz de problemas educacionais e políticos de seu tempo, assim como de concepções filosóficas, teorias da história, partições epistemológicas e disciplinares que então configuravam o modelo universitário. Pelo modo como se organizou para propor, produzir e divulgar a escrita da história, essa geração marcou esse campo em formação com características particulares, que incluem a preferência por determinados tipos de fontes, modos de periodizar e narrar os eventos históricos. A análise historiográfica proposta combina a compreensão textual e contextual dessa tradição, considerando as condições institucionais e disciplinares tanto quanto as ambiências social, intelectual e política em que essas narrativas se produziram.
+HistoriografiaIntelectuaisPesquisaeducacional
+ 
+Presença franciscana e supremacia jesuítica no campo da História e da História da Educação na época colonial – um diagnóstico na pesquisa historiográfica a partir da análise dos CBHE da SBHE
+Luiz Fernando Conde SangenisPeter Johann Mainka
+Magister Artium em História pela Julius-Maximilians-Universität Würzburg/Alemanha (JMUW); doutor em História pela JMUW; atualmente é Professor Visitante da Universidade Federal de Santa Catarina (UFSC).
+Franciscanosjesuítasfonteshistoriográficasdemarcaçãotemporal
+ 
+As escolas que construímos: a história de instituições escolares na Revista Brasileira de História da Educação
+Ademir Valdir dos SantosAriclê Vechia
+: Objetiva identificar e categorizar artigos de História de Instituições Escolares publicados na Revista Brasileira de História da Educação no intervalo ente 2001 e 2018, com o uso da Análise de Conteúdo (Bardin, 1977). O corpus documental é composto por artigos que examinam histórias institucionais por meio de conteúdos que conformam as categorias espacial, temporal, intelectual, social, política, teoria e metodologia e completo. Os resultados indicam que investigações sobre escolas estão em 24% dos textos. A historiografia em História de Instituições Escolares, publicada na Revista Brasileira de História da Educação, revela uma escrita crítica e inovadora, trazendo à luz a diversidade de escolas que construímos e possibilitando refletir sobre a formação humana.
+históriadaeducaçãohistóriadeinstituiçõesescolareshistoriografiadaeducação
+ 
+A contribuição dos estudos sobre grupos escolares para a historiografia da educação brasileira: reflexões para debate
+Rosa Fátima de Souza
+Este artigo apresenta reflexões acerca da contribuição dos estudos sobre grupos escolares para a escrita da história da educação no Brasil. O texto sustenta que as pesquisas históricas realizadas sobre o tema nas duas últimas décadas instituíram e disseminaram categorias de análise, colaboraram para o avanço do conhecimento e ajudaram a consolidar novos objetos de pesquisa. Na primeira parte discute-se a emergência dos grupos escolares como objeto de pesquisa histórica, assinalando-se as matrizes teóricas que têm norteado a produção. Na sequência é analisado o percurso das iniciativas de comparação levadas a termo envolvendo diversos grupos de pesquisa e investigadores propiciando deslocamentos temáticos e novas interpretações construídas sobre a história da escola primária no Brasil.
+GruposEscolaresHistóriadaeducaçãoEscolaprimária
+ 
+A escrita da arquitetura escolar na historiografia da educação brasileira (1999-2018)
+Marcus Levy Bencostta
+Este artigo tem como objetivo apresentar uma cartografia das pesquisas realizadas entre os anos de 1999-2018 sobre a história da arquitetura escolar, originárias das áreas de conhecimento da educação, da história e da arquitetura, ressaltando as principais tendências historiográficas que foram mais determinantes.
+EscritadaHistóriaEducaçãoHistóriaArquitetura
+ 
+A cultura material da escola: apontamentos a partir da história da educação
+André Luiz Paulilo
+Este artigo focaliza o lugar especial da cultura material da escola nas análises da historiografia da educação a partir da década de 1990. Pesquisas sobre a história da cultura material escolar são analisadas e quatro aspectos são examinados: primeiramente, a arquitetura escolar, em seguida, os arquivos e bibliotecas escolares, depois, os materiais audiovisuais e, finalmente, a mudança da sensibilidade historiográfica dos estudos sobre a história da educação brasileira. Destaca a relevância deste tema para o estudo das práticas escolares e para a historiografia da educação. Neste texto pretende-se refletir acerca de algumas mudanças na memória educacional e na pesquisa em história da educação.
+historiografiadaeducaçãoculturamaterialescolarmemória
+ 
+Festejar aqui e lá: a escrita comparada das festas escolares no Brasil e em Portugal (1890-1920)
+Renata Marcílio Cândido
+Este artigo propõe a escrita comparada da história das festas escolares no Brasil e em Portugal em um contexto representativo da consolidação dos sistemas públicos e estatais de ensino nos dois países, na viragem do século XIX para o XX. As análises que tecem a escrita foram elaboradas a partir da sistematização de textos publicados em periódicos de ensino. Neste corpus documental, percebe-se que as ‘aproximações’ com relação ao tema referem-se às festas que celebram a escola como parte do projeto modernizador das sociedades brasileira e portuguesa. Já os ‘distanciamentos’ relacionam-se aos temas das solenidades, como as festas beneficentes portuguesas, ou às datas representativas dos ‘heróis’ nacionais e acontecimentos marcantes da história política dos países.
+Festasescolaresescritadahistóriahistóriacomparada
+ 
+A constituição de um arquivo e a escrita da história da educação: do gesto artesão à prática científica
+Eliane Teresinha Peres
+Este artigo discute a intrínseca relação existente entre o gesto artesão de constituição de um arquivo e a escrita da história da educação. Com base na experiência de mais de uma década de trabalho ininterrupto em que se associam coleta, guarda, organização e pesquisa ‘de’ e ‘em’ um arquivo específico, apresentam-se algumas das opções que foram tomadas ao longo do processo, justificando-as e discutindo-as. Trata-se de um arquivo constituído em uma universidade pública brasileira que abriga atualmente mais de cinco mil itens inventariados. A intenção principal é demostrar que a ideia que sustentou a criação do arquivo é a de lugar de memória coletiva da infância escolarizada, da docência da escola primária/anos iniciais e das práticas sociais e escolares de leitura e de escrita e do desenvolvimento de pesquisas socialmente referenciadas
+Acervoarquivísticoacervohistóricodocumentaçãohistoriografia
+ 
+História e historiografia da Educação de Jovens e Adultos no Brasil - inteligibilidades, apagamentos, necessidades, possibilidades
+Cristiane Fernanda Xavier
+Barros, J. D’. (2009). História e memória – uma relação na confluência entre tempo e espaço. MOUSEION, 3(5), 35-67. 
+Ensinosupletivomemóriahistóricaidentidadeestatísticaseducacionais
+ 
+Educação não escolar: balanço da produção presente nos Congressos Brasileiros de História da Educação
+Maria Betânia Barbosa AlbuquerqueJane Elisa Otomar Buecke
+Albuquerque, M. B. B. (2011). Epistemologia e saberes da ayahuasca. Belém, PA: EDUEPA. 
+HistoriografiaEducaçãocomoculturaHistóriadaeducaçãoEducaçãoinformal.
+ 
+Cartografia das produções em História da Educação nos Programas de Pós-graduação em Educação no Pará (2005-2018)
+Laura Maria Silva Araújo AlvesVitor Sousa Cunha NeryLivia Sousa da Silva
+Este artigo objetiva construir uma cartografia das produções sobre história da educação no Pará, tomando por base as teses e dissertações defendidas nos Programas de Pós-graduação em Educação da UFPA e da UEPA, no período de 2005-2018, o que nos permitiu avaliar os avanços nas produções relativas à história da educação na Amazônia e identificar lacunas e desafios aos pesquisadores da educação da região Norte, no campo da história da educação. As produções analisadas apontam que, embora não exista nos dois Programas de Pós-graduação em Educação uma linha e/ou núcleo específico na área da história da educação, constatou-se uma significativa produção. Ao final, analisamos em que medida os dois programas contribuíram para o fortalecimento de pesquisas em história da educação.
+HistóriadaEducaçãoParáProduçõesAcadêmicasAmazônia
+ 
+Vinte anos da Sociedade Brasileira de História da Educação: com os olhos no futuro
+Marisa Bittar
+Este texto tem como objetivo a reflexão sobre os vinte anos da SBHE entrelaçando a sua criação (1999) com os caminhos percorridos pelas gerações que nos antecederam para a formação do campo da História da Educação no Brasil. Para escrevê-lo, fiz uso de fontes escritas e também de minha própria experiência. Inicialmente mostro as suas origens na Educação e discuto a sua relação com esse campo e com o da História. Em seguida, destaco questões teóricas relativas à sua produção e concluo que esse campo atravessou o século XX em linha ascendente culminando com a criação da SBHE em 1999. Como desafios, indico o contexto diverso no qual o campo deverá continuar atuando, tendo em vista a demanda por internacionalização e as apreensões quanto à redução da História da Educação no currículo de formação de professores.
+HistóriadaEducaçãoEducaçãoHistória
+ 
 A RBHE comemora seus dezoito anos com novo formato
 Alicia Civera CerecedoAna Clara Bortoleto NeryClaudia Engler CuryEvelyn de Almeida OrlandoTerciane Ângela Luchese
 Doutora em Educação pela Universidade Estadual de Campinas (2002). Atuou como Tesoureira da Sociedade Brasileira de História da Educação nos biênios (2013-2015 e 2015-2017), professora associada IV do departamento de história da Universidade Federal da Paraíba. Membro efetivo dos Programas de Pós-Graduação em História e em Educação da UFPB. É editora-chefe da RBHE.
 
- 
-Editorial
-Comissão Editorial RBHE
-DECLARAÇÃO DE ORIGINALIDADE E DIREITOS AUTORAIS
-
- 
-Editorial
-Comissão Editorial RBHE
-DECLARAÇÃO DE ORIGINALIDADE E DIREITOS AUTORAIS
-
- 
-Editorial
-Comissão Editorial RBHE
-DECLARAÇÃO DE ORIGINALIDADE E DIREITOS AUTORAIS
-
- 
-Editorial
-Comissão Editorial RBHE
-DECLARAÇÃO DE ORIGINALIDADE E DIREITOS AUTORAIS
-
- 
-Editorial
-Comissão Editorial RBHE
-DECLARAÇÃO DE ORIGINALIDADE E DIREITOS AUTORAIS
-
- 
-Editorial
-Comissão Editorial RBHE
-DECLARAÇÃO DE ORIGINALIDADE E DIREITOS AUTORAIS
-editorialrbhev16n3
- 
-Editorial
-Comissão Editorial RBHE
-DECLARAÇÃO DE ORIGINALIDADE E DIREITOS AUTORAIS
-
- 
-Editorial
-Comissão Editorial RBHE
-DECLARAÇÃO DE ORIGINALIDADE E DIREITOS AUTORAIS
-
- 
-Editorial
-Comissão Editorial RBHE
-DECLARAÇÃO DE ORIGINALIDADE E DIREITOS AUTORAIS
-
- 
-Editorial
-Comissão Editorial RBHE
-DECLARAÇÃO DE ORIGINALIDADE E DIREITOS AUTORAIS
-
- 
-A governamentalização de “almas” católicas: Igreja e educação no século XIX
-Carlos Manoel Pimenta Pires
-Neste artigo, analisaremos encíclicas papais de dois pontificados da centúria de 1800, propondo-nos demonstrar como que,dentreas várias práticas existentes do catolicismo, aquepriorizou a escolarização de base missionária, apostólica e disciplinadora do corpo de religiosos – e, posteriormente, dos fiéis – foi a preponderante, assumindo opapelde regeneradora da igreja e deprincipalformadeexercíciodopodereclesial sobresuaspopulações na contemporaneidade. Não se trataria de demonstrar a transição automática de uma forma de poder a outra, mas de identificar suas possíveis gêneses e apontar as transformações ocorridas no fortalecimento de uma teologia de características cada vez mais pedagógicas e num enquadramento institucional de que assumia um viés pastoral e ascético.
-HistóriadaEducaçãoEducaçãoCatólicaMichelFoucault
- 
-A educação da criança pela família no século XIX: da historiografia a um problema de pesquisa
-Juarez José Tuchinski dos Anjos
-O artigo é parte de uma tese de doutorado em andamento, que tem por objeto de estudo a educação da criança pela família no século XIX, numa região específica, a Província do Paraná. O objetivo aqui é realizar uma discussão historiográfica do tratamento dado a tal fenômeno histórico, em âmbito nacional e internacional, apontando um problema de pesquisa, a partir dela construído. Inicialmente é descrito o caminho percorrido no processo de levantamento historiográfico. Em seguida, efetua-se a análise da produção historiográfica localizada. Ao final, avança-se no diálogo com a historiografia, apresentando-se, a modo de conclusão, um problema de pesquisa, as hipóteses e a tese construídas a partir desta discussão historiográfica.
-CriançaFamíliaEducaçãoHistoriografiaSéculoXIX
- 
-Escolarização na província da Parahyba do Norte: a organização da instrução pública primária (1840-1860)
-Mauricéia AnaniasSurya Aaronovich Pombo de Barros
-Busca-se iluminar os primeiros anos do processo de institucionalização da escola pública da província da Parahyba do Norte, considerando-se a atuação do governo provincial para a criação das aulas de primeiras letras. A partir da análise de fontes como os relatórios de presidentes de província e documentos diversos da instrução, e utilizando-se o conceito de experiência de E. P. Thompson, cotejam-se as ideias veiculadas nesses documentos com os textos de dois regulamentos aprovados em 1849. Conclui-se que tal legislação contribuiu para o estabelecimento da instrução pública primária, bem como os discursos indicaram a preocupação com a disseminação da escola, considerando as famílias dos alunos e os professores alvos da ação reguladora e civilizadora do governo provincial.
-InstruçãopúblicaEscolarizaçãoSéculoXIXProvínciaAulasdeprimeirasletras
- 
-Escritura marginais: fragmentos de memórias da professora  Malvina Tavares (1891 – 1930)
-Doris Bittencourt AlmeidaLuciane Sagrbi Santos Graziottin
-O estudo apresentado evidencia as memórias de uma professora e tem como objetos de análise o diário íntimo de Julia Malvina Hailliot  Tavares, escrito entre o final do século XIX até a década de 1930, e o caderno de Zilda Haussen, sua aluna, datado de 1927. Por meio deles foi possível confrontar o pessoal, íntimo e corriqueiro da vida doméstica, com fatos históricos e o contexto educacional de uma época. O diário pessoal é constituído por um tipo de escrita autobiográfica, desse modo a pesquisa considera as distintas dimensões da vida da autora, estabelecendo um paralelo entre vida privada, docência como profissão feminina nos primeiros anos da república e o contexto da educação nos anos finais do século XIX e início do século XX. Por ser representativos de uma época, a relevância de seus escritos também possibilitou um exercício interpretativo das existências de tantas outras mulheres, tantas outras vidas comuns, contemporâneas de Malvina Tavares.
-Diáriointimomemóriaautobiografiaescritaprivada
- 
-O combate à “degeneração da raça”: discurso educativo para a população na legislação da saúde pública de Minas Gerais em 1927
-Eliane Vianey de CarvalhoLaerthe de Moraes Abreu Junior
-
-HistóriadaEducaçãosaúdeeeducaçãoregulamentodaSaúdePúblicadeMinasGerais(1927)biopolítica
- 
-Olga Cossettini no labirinto da sociabilidade política de Santa Fé (Argentina, 1937-1943)
-Sandra Rita Fernandez
-Este artigo tenta dar conta da trama relacional que a professora e pedagoga V. Olga Cossettini construiu durante os anos trinta e os primeiros anos da década de quarenta, a partir da qual pôde organizar o seu projeto educativo dentro das estruturas educativas oficiais da cidade de Santa Fé – Argentina. Num contexto histórico marcado pela intervenção e pela fraude, pretende-se localizar historicamente esta educadora argentina, permitindo a compreensão integral das complexidades do contexto em que se encontrava inserida, e interpretar o que significou a criação de uma experiência como a Escola Serena num clima político, que a priori, poderia ser considerado como pouco permeável a este tipo de práticas pedagógicas.
-SociabilidadePolíticaEducaçãoCulturaEscuelaSerena
  
