@@ -6,6 +6,7 @@ import re
 from database_manager import DatabaseManager
 import time
 import os
+from docx_manager import DocxManager
 
 class WebsiteScrapper:
 
@@ -38,7 +39,11 @@ class WebsiteScrapper:
 
       print("Found " + str(len(list_of_issues)) + " issues")
 
+      issue_counter = 0
+
       for issue in list_of_issues:
+
+        issue_counter = issue_counter + 1
 
         # Get issue url
         issue_url = issue['href']
@@ -86,13 +91,14 @@ class WebsiteScrapper:
 
               if(keywords_div is not None):
                 temp_string = keywords_div.find("span",{"class": "value"}).text.strip().split(",")
+                print(temp_string)
                 for w in temp_string:
-                  w = re.sub('\s+', '', w)
+                  w = re.sub('\t', '', w)
                   key_words.append(w)
                 
               self.databaseManager.addToRbheFile(title, all_authors, summary, key_words)
 
-              time.sleep(1000)
+              # time.sleep(1000)
             else:
               print("Wasn't able to access " + str(article_url) )
         else:
