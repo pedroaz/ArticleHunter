@@ -92,7 +92,7 @@ class WebsiteScrapper:
                 
               self.databaseManager.addToRbheFile(title, all_authors, summary, key_words)
 
-              # time.sleep(1)
+              time.sleep(1000)
             else:
               print("Wasn't able to access " + str(article_url) )
         else:
